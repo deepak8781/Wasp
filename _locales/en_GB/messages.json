@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Goyral Bulk WhatsApp",
+        "description": "The description of the extension, displayed in the web store."
+    },
+    "subHeading": {
+        "message": "Click here to Expand Features",
+        "description": "Click here to Expand Features"
+    },
+    "mobilePlaceholder":{
+        "message": "Add Mobile No (comma separated)",
+        "description": "Add Mobile No (comma separated)"
+    }
+}
